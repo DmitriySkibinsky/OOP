@@ -1,0 +1,33 @@
+﻿<Window x:Class="GCDApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Нахождение НОД" Height="311" Width="361">
+    <Grid Height="295" VerticalAlignment="Center">
+        <Label Content="Первое число:" VerticalAlignment="Top" Margin="10,26,0,0"/>
+        <TextBox x:Name="FirstNumberTextBox" VerticalAlignment="Top" Margin="130,26,10,0"/>
+
+        <Label Content="Второе число:" VerticalAlignment="Top" Margin="10,57,0,0"/>
+        <TextBox x:Name="SecondNumberTextBox" VerticalAlignment="Top" Margin="130,61,10,0"/>
+
+        <Label Content="Третье число:" VerticalAlignment="Top" Margin="10,92,0,0"/>
+        <TextBox x:Name="ThirdNumberTextBox" VerticalAlignment="Top" Margin="130,96,10,0"/>
+
+        <Label Content="Четвертое число:" VerticalAlignment="Top" Margin="10,129,0,0"/>
+        <TextBox x:Name="FourthNumberTextBox" VerticalAlignment="Top" Margin="130,133,10,0"/>
+
+        <Label Content="Пятое число:" VerticalAlignment="Top" Margin="10,168,0,0"/>
+        <TextBox x:Name="FifthNumberTextBox" VerticalAlignment="Top" Margin="130,172,10,0"/>
+
+        <Button Content="Найти НОД" VerticalAlignment="Top" Margin="10,202,10,0" Click="FindGCDButton_Click"/>
+
+        <Label x:Name="ResultLabel" Content="" 
+               HorizontalAlignment="Center" 
+               VerticalAlignment="Top" 
+               HorizontalContentAlignment="Center" 
+               VerticalContentAlignment="Center" 
+               Margin="0,241,0,0"/>
+
+
+
+    </Grid>
+</Window>

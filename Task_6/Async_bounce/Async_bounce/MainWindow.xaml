@@ -1,0 +1,31 @@
+﻿<Window x:Class="MultithreadingApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Multithreading App" Height="450" Width="963">
+    <Grid Margin="0,0,26,0">
+        <Canvas Name="canvas" Background="White" Margin="50,50,0,50">
+            <!-- Квадрат-комната -->
+            <Rectangle Width="700" Height="350" Stroke="Black" StrokeThickness="2"/>
+        </Canvas>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10">
+            <Button Content="Start" Width="75" Click="StartButton_Click"/>
+            <Button Content="Stop" Width="75" Click="StopButton_Click" Margin="10,0,0,0"/>
+            <Label Content="X1:" VerticalAlignment="Center"/>
+            <TextBox Name="X1TextBox" Width="50" VerticalAlignment="Center" Text="100"/>
+            <Label Content="Y1:" VerticalAlignment="Center"/>
+            <TextBox Name="Y1TextBox" Width="50" VerticalAlignment="Center" Text="100"/>
+            <Label Content="X2:" VerticalAlignment="Center"/>
+            <TextBox Name="X2TextBox" Width="50" VerticalAlignment="Center" Text="600"/>
+            <Label Content="Y2:" VerticalAlignment="Center"/>
+            <TextBox Name="Y2TextBox" Width="50" VerticalAlignment="Center" Text="100"/>
+            <Label Content="SpeedX1:" VerticalAlignment="Center" Margin="10,0,0,0"/>
+            <TextBox Name="SpeedX1TextBox" Width="50" VerticalAlignment="Center" Text="2"/>
+            <Label Content="SpeedY1:" VerticalAlignment="Center"/>
+            <TextBox Name="SpeedY1TextBox" Width="50" VerticalAlignment="Center" Text="2"/>
+            <Label Content="SpeedX2:" VerticalAlignment="Center" Margin="10,0,0,0"/>
+            <TextBox Name="SpeedX2TextBox" Width="50" VerticalAlignment="Center" Text="2"/>
+            <Label Content="SpeedY2:" VerticalAlignment="Center"/>
+            <TextBox Name="SpeedY2TextBox" Width="50" VerticalAlignment="Center" Text="2"/>
+        </StackPanel>
+    </Grid>
+</Window>

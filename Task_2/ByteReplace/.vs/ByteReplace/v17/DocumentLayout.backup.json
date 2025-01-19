@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_2\\ByteReplace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1BBE30-BB68-4E3B-A57F-E467E90DF7FC}|ByteReplace\\ByteReplace.csproj|c:\\users\\dmitr\\desktop\\university\\oop\\task_2\\bytereplace\\bytereplace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1BBE30-BB68-4E3B-A57F-E467E90DF7FC}|ByteReplace\\ByteReplace.csproj|solutionrelative:bytereplace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_2\\ByteReplace\\ByteReplace\\Program.cs",
+              "RelativeDocumentMoniker": "ByteReplace\\Program.cs",
+              "ToolTip": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_2\\ByteReplace\\ByteReplace\\Program.cs",
+              "RelativeToolTip": "ByteReplace\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:18:52.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

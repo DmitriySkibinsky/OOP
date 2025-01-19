@@ -1,0 +1,14 @@
+C:\Users\dmitr\Desktop\University\OOP\Task_1\LinkType\LinkType\bin\Debug\net8.0\LinkType.exe
+C:\Users\dmitr\Desktop\University\OOP\Task_1\LinkType\LinkType\bin\Debug\net8.0\LinkType.deps.json
+C:\Users\dmitr\Desktop\University\OOP\Task_1\LinkType\LinkType\bin\Debug\net8.0\LinkType.runtimeconfig.json
+C:\Users\dmitr\Desktop\University\OOP\Task_1\LinkType\LinkType\bin\Debug\net8.0\LinkType.dll
+C:\Users\dmitr\Desktop\University\OOP\Task_1\LinkType\LinkType\bin\Debug\net8.0\LinkType.pdb
+C:\Users\dmitr\Desktop\University\OOP\Task_1\LinkType\LinkType\obj\Debug\net8.0\LinkType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\Desktop\University\OOP\Task_1\LinkType\LinkType\obj\Debug\net8.0\LinkType.AssemblyInfoInputs.cache
+C:\Users\dmitr\Desktop\University\OOP\Task_1\LinkType\LinkType\obj\Debug\net8.0\LinkType.AssemblyInfo.cs
+C:\Users\dmitr\Desktop\University\OOP\Task_1\LinkType\LinkType\obj\Debug\net8.0\LinkType.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\Desktop\University\OOP\Task_1\LinkType\LinkType\obj\Debug\net8.0\LinkType.dll
+C:\Users\dmitr\Desktop\University\OOP\Task_1\LinkType\LinkType\obj\Debug\net8.0\refint\LinkType.dll
+C:\Users\dmitr\Desktop\University\OOP\Task_1\LinkType\LinkType\obj\Debug\net8.0\LinkType.pdb
+C:\Users\dmitr\Desktop\University\OOP\Task_1\LinkType\LinkType\obj\Debug\net8.0\LinkType.genruntimeconfig.cache
+C:\Users\dmitr\Desktop\University\OOP\Task_1\LinkType\LinkType\obj\Debug\net8.0\ref\LinkType.dll

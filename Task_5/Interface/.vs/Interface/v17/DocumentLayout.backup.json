@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_5\\Interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9789ED-8E75-441B-A9C6-C2F4EA418192}|Interface\\Interface.csproj|c:\\users\\dmitr\\desktop\\university\\oop\\task_5\\interface\\interface\\measurelengthdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9789ED-8E75-441B-A9C6-C2F4EA418192}|Interface\\Interface.csproj|solutionrelative:interface\\measurelengthdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9789ED-8E75-441B-A9C6-C2F4EA418192}|Interface\\Interface.csproj|c:\\users\\dmitr\\desktop\\university\\oop\\task_5\\interface\\interface\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9789ED-8E75-441B-A9C6-C2F4EA418192}|Interface\\Interface.csproj|solutionrelative:interface\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9789ED-8E75-441B-A9C6-C2F4EA418192}|Interface\\Interface.csproj|c:\\users\\dmitr\\desktop\\university\\oop\\task_5\\interface\\interface\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9789ED-8E75-441B-A9C6-C2F4EA418192}|Interface\\Interface.csproj|solutionrelative:interface\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9789ED-8E75-441B-A9C6-C2F4EA418192}|Interface\\Interface.csproj|c:\\users\\dmitr\\desktop\\university\\oop\\task_5\\interface\\interface\\imeasuringdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9789ED-8E75-441B-A9C6-C2F4EA418192}|Interface\\Interface.csproj|solutionrelative:interface\\imeasuringdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9789ED-8E75-441B-A9C6-C2F4EA418192}|Interface\\Interface.csproj|c:\\users\\dmitr\\desktop\\university\\oop\\task_5\\interface\\interface\\unitsenumeration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9789ED-8E75-441B-A9C6-C2F4EA418192}|Interface\\Interface.csproj|solutionrelative:interface\\unitsenumeration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9789ED-8E75-441B-A9C6-C2F4EA418192}|Interface\\Interface.csproj|c:\\users\\dmitr\\desktop\\university\\oop\\task_5\\interface\\interface\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9789ED-8E75-441B-A9C6-C2F4EA418192}|Interface\\Interface.csproj|solutionrelative:interface\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9789ED-8E75-441B-A9C6-C2F4EA418192}|Interface\\Interface.csproj|c:\\users\\dmitr\\desktop\\university\\oop\\task_5\\interface\\interface\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1E9789ED-8E75-441B-A9C6-C2F4EA418192}|Interface\\Interface.csproj|solutionrelative:interface\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_5\\Interface\\Interface\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Interface\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_5\\Interface\\Interface\\AssemblyInfo.cs",
+              "RelativeToolTip": "Interface\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T21:42:18.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MeasureLengthDevice.cs",
+              "DocumentMoniker": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_5\\Interface\\Interface\\MeasureLengthDevice.cs",
+              "RelativeDocumentMoniker": "Interface\\MeasureLengthDevice.cs",
+              "ToolTip": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_5\\Interface\\Interface\\MeasureLengthDevice.cs",
+              "RelativeToolTip": "Interface\\MeasureLengthDevice.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:02:24.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_5\\Interface\\Interface\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Interface\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_5\\Interface\\Interface\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Interface\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:57:01.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMeasuringDevice.cs",
+              "DocumentMoniker": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_5\\Interface\\Interface\\IMeasuringDevice.cs",
+              "RelativeDocumentMoniker": "Interface\\IMeasuringDevice.cs",
+              "ToolTip": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_5\\Interface\\Interface\\IMeasuringDevice.cs",
+              "RelativeToolTip": "Interface\\IMeasuringDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:05:02.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeviceController.cs",
+              "DocumentMoniker": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_5\\Interface\\Interface\\DeviceController.cs",
+              "RelativeDocumentMoniker": "Interface\\DeviceController.cs",
+              "ToolTip": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_5\\Interface\\Interface\\DeviceController.cs",
+              "RelativeToolTip": "Interface\\DeviceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:05:30.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitsEnumeration.cs",
+              "DocumentMoniker": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_5\\Interface\\Interface\\UnitsEnumeration.cs",
+              "RelativeDocumentMoniker": "Interface\\UnitsEnumeration.cs",
+              "ToolTip": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_5\\Interface\\Interface\\UnitsEnumeration.cs",
+              "RelativeToolTip": "Interface\\UnitsEnumeration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:13:23.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_5\\Interface\\Interface\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Interface\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_5\\Interface\\Interface\\MainWindow.xaml",
+              "RelativeToolTip": "Interface\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T16:57:04.814Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

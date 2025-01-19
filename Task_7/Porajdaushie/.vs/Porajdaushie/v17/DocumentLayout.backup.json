@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_7\\Porajdaushie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87296015-132D-431E-9315-70F74C440B37}|Porajdaushie\\Porajdaushie.csproj|c:\\users\\dmitr\\desktop\\university\\oop\\task_7\\porajdaushie\\porajdaushie\\abstract factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87296015-132D-431E-9315-70F74C440B37}|Porajdaushie\\Porajdaushie.csproj|solutionrelative:porajdaushie\\abstract factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87296015-132D-431E-9315-70F74C440B37}|Porajdaushie\\Porajdaushie.csproj|c:\\users\\dmitr\\desktop\\university\\oop\\task_7\\porajdaushie\\porajdaushie\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87296015-132D-431E-9315-70F74C440B37}|Porajdaushie\\Porajdaushie.csproj|solutionrelative:porajdaushie\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87296015-132D-431E-9315-70F74C440B37}|Porajdaushie\\Porajdaushie.csproj|c:\\users\\dmitr\\desktop\\university\\oop\\task_7\\porajdaushie\\porajdaushie\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{87296015-132D-431E-9315-70F74C440B37}|Porajdaushie\\Porajdaushie.csproj|solutionrelative:porajdaushie\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87296015-132D-431E-9315-70F74C440B37}|Porajdaushie\\Porajdaushie.csproj|c:\\users\\dmitr\\desktop\\university\\oop\\task_7\\porajdaushie\\porajdaushie\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87296015-132D-431E-9315-70F74C440B37}|Porajdaushie\\Porajdaushie.csproj|solutionrelative:porajdaushie\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87296015-132D-431E-9315-70F74C440B37}|Porajdaushie\\Porajdaushie.csproj|c:\\users\\dmitr\\desktop\\university\\oop\\task_7\\porajdaushie\\porajdaushie\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87296015-132D-431E-9315-70F74C440B37}|Porajdaushie\\Porajdaushie.csproj|solutionrelative:porajdaushie\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87296015-132D-431E-9315-70F74C440B37}|Porajdaushie\\Porajdaushie.csproj|c:\\users\\dmitr\\desktop\\university\\oop\\task_7\\porajdaushie\\porajdaushie\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87296015-132D-431E-9315-70F74C440B37}|Porajdaushie\\Porajdaushie.csproj|solutionrelative:porajdaushie\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87296015-132D-431E-9315-70F74C440B37}|Porajdaushie\\Porajdaushie.csproj|c:\\users\\dmitr\\desktop\\university\\oop\\task_7\\porajdaushie\\porajdaushie\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87296015-132D-431E-9315-70F74C440B37}|Porajdaushie\\Porajdaushie.csproj|solutionrelative:porajdaushie\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87296015-132D-431E-9315-70F74C440B37}|Porajdaushie\\Porajdaushie.csproj|c:\\users\\dmitr\\desktop\\university\\oop\\task_7\\porajdaushie\\porajdaushie\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87296015-132D-431E-9315-70F74C440B37}|Porajdaushie\\Porajdaushie.csproj|solutionrelative:porajdaushie\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87296015-132D-431E-9315-70F74C440B37}|Porajdaushie\\Porajdaushie.csproj|c:\\users\\dmitr\\desktop\\university\\oop\\task_7\\porajdaushie\\porajdaushie\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87296015-132D-431E-9315-70F74C440B37}|Porajdaushie\\Porajdaushie.csproj|solutionrelative:porajdaushie\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_7\\Porajdaushie\\Porajdaushie\\Singleton.cs",
+              "RelativeDocumentMoniker": "Porajdaushie\\Singleton.cs",
+              "ToolTip": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_7\\Porajdaushie\\Porajdaushie\\Singleton.cs",
+              "RelativeToolTip": "Porajdaushie\\Singleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T06:53:26.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_7\\Porajdaushie\\Porajdaushie\\ViewModel.cs",
+              "RelativeDocumentMoniker": "Porajdaushie\\ViewModel.cs",
+              "ToolTip": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_7\\Porajdaushie\\Porajdaushie\\ViewModel.cs",
+              "RelativeToolTip": "Porajdaushie\\ViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T06:53:07.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_7\\Porajdaushie\\Porajdaushie\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Porajdaushie\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_7\\Porajdaushie\\Porajdaushie\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Porajdaushie\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T06:52:00.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_7\\Porajdaushie\\Porajdaushie\\Category.cs",
+              "RelativeDocumentMoniker": "Porajdaushie\\Category.cs",
+              "ToolTip": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_7\\Porajdaushie\\Porajdaushie\\Category.cs",
+              "RelativeToolTip": "Porajdaushie\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T06:57:27.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_7\\Porajdaushie\\Porajdaushie\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Porajdaushie\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_7\\Porajdaushie\\Porajdaushie\\MainWindow.xaml",
+              "RelativeToolTip": "Porajdaushie\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-16T06:52:09.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Abstract Factory.cs",
+              "DocumentMoniker": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_7\\Porajdaushie\\Porajdaushie\\Abstract Factory.cs",
+              "RelativeDocumentMoniker": "Porajdaushie\\Abstract Factory.cs",
+              "ToolTip": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_7\\Porajdaushie\\Porajdaushie\\Abstract Factory.cs",
+              "RelativeToolTip": "Porajdaushie\\Abstract Factory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T06:53:38.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_7\\Porajdaushie\\Porajdaushie\\DBHelper.cs",
+              "RelativeDocumentMoniker": "Porajdaushie\\DBHelper.cs",
+              "ToolTip": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_7\\Porajdaushie\\Porajdaushie\\DBHelper.cs",
+              "RelativeToolTip": "Porajdaushie\\DBHelper.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T06:54:43.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_7\\Porajdaushie\\Porajdaushie\\CartItem.cs",
+              "RelativeDocumentMoniker": "Porajdaushie\\CartItem.cs",
+              "ToolTip": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_7\\Porajdaushie\\Porajdaushie\\CartItem.cs",
+              "RelativeToolTip": "Porajdaushie\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T06:55:18.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_7\\Porajdaushie\\Porajdaushie\\Product.cs",
+              "RelativeDocumentMoniker": "Porajdaushie\\Product.cs",
+              "ToolTip": "C:\\Users\\dmitr\\Desktop\\University\\OOP\\Task_7\\Porajdaushie\\Porajdaushie\\Product.cs",
+              "RelativeToolTip": "Porajdaushie\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T06:57:06.579Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

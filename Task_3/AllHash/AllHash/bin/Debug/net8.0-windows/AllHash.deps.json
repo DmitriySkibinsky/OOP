@@ -1,0 +1,287 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AllHash/1.0.0": {
+        "dependencies": {
+          "Blake2Core": "1.0.0",
+          "Blake3": "1.1.0",
+          "HashLib": "2.0.1",
+          "Konscious.Security.Cryptography.Blake2": "1.1.1",
+          "NETStandard.Library": "2.0.3",
+          "Notus.Hash.RIPEMD160": "1.8.6",
+          "Portable.BouncyCastle-Signed": "1.7.0.2",
+          "RIPEMD160": "1.0.0",
+          "SHA3": "1.0.0",
+          "SHA3.Net": "2.0.0",
+          "SHA3Core": "1.0.1"
+        },
+        "runtime": {
+          "AllHash.dll": {}
+        }
+      },
+      "Blake2Core/1.0.0": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.6/Blake2Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Blake3/1.1.0": {
+        "runtime": {
+          "lib/net7.0/Blake3.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux-arm/native/libblake3_dotnet.so": {
+            "rid": "linux-arm",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-arm64/native/libblake3_dotnet.so": {
+            "rid": "linux-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/libblake3_dotnet.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-arm64/native/libblake3_dotnet.dylib": {
+            "rid": "osx-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/libblake3_dotnet.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-arm64/native/blake3_dotnet.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/blake3_dotnet.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/blake3_dotnet.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "HashLib/2.0.1": {
+        "runtime": {
+          "lib/net40/HashLib.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "Konscious.Security.Cryptography.Blake2/1.1.1": {
+        "runtime": {
+          "lib/net8.0/Konscious.Security.Cryptography.Blake2.dll": {
+            "assemblyVersion": "1.1.1.0",
+            "fileVersion": "1.1.1.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Notus.Hash.RIPEMD160/1.8.6": {
+        "dependencies": {
+          "Notus.Tools": "1.7.17"
+        },
+        "runtime": {
+          "lib/net5.0/Notus.Hash.RIPEMD160.dll": {
+            "assemblyVersion": "1.8.6.0",
+            "fileVersion": "1.8.6.0"
+          }
+        }
+      },
+      "Notus.Tools/1.7.17": {
+        "dependencies": {
+          "Notus.Variable.Constant": "1.8.31"
+        },
+        "runtime": {
+          "lib/net5.0/Notus.Tools.dll": {
+            "assemblyVersion": "1.7.17.0",
+            "fileVersion": "1.7.17.0"
+          }
+        }
+      },
+      "Notus.Variable.Constant/1.8.31": {
+        "runtime": {
+          "lib/net5.0/Notus.Variable.Constant.dll": {
+            "assemblyVersion": "1.8.31.0",
+            "fileVersion": "1.8.31.0"
+          }
+        }
+      },
+      "Portable.BouncyCastle-Signed/1.7.0.2": {
+        "runtime": {
+          "lib/portable-net45+dnxcore50+wp80+win+wpa81+MonoTouch10+MonoAndroid10+xamarinmac20+xamarinios10/crypto.dll": {
+            "assemblyVersion": "1.7.0.0",
+            "fileVersion": "1.7.0.0"
+          }
+        }
+      },
+      "RIPEMD160/1.0.0": {
+        "runtime": {
+          "lib/netcoreapp2.0/RIPEMD160.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SHA3/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.1/SHA3.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SHA3.Net/2.0.0": {
+        "runtime": {
+          "lib/net6.0/SHA3.Net.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "SHA3Core/1.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/SHA3Core.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AllHash/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Blake2Core/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-P8SvW7CuT4CP6cAgRpNzPOJM1IZlTpiXeOLivo+3drxUhKn3a7eCAO5LIUVdODlbrhoDhdSeBmCcyT5c+Et6HQ==",
+      "path": "blake2core/1.0.0",
+      "hashPath": "blake2core.1.0.0.nupkg.sha512"
+    },
+    "Blake3/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/gWRFsXYeIFof8YAoFJwzv2fYjSTCo+6vvTSL6pyXw2ZLXQdRvEyXhO43jyDfEFBCTxMxWpoHbIcIEIF6a3QdQ==",
+      "path": "blake3/1.1.0",
+      "hashPath": "blake3.1.1.0.nupkg.sha512"
+    },
+    "HashLib/2.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B6cMEP6s+ucLpzY6NAByHf8GF/pqm+9YqFS9d4+qEm73VY+r/q1xIwdBwMoVL/SX35HPJFKupaQvgtL9xnf9tA==",
+      "path": "hashlib/2.0.1",
+      "hashPath": "hashlib.2.0.1.nupkg.sha512"
+    },
+    "Konscious.Security.Cryptography.Blake2/1.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-odwOyzj/J/lHJZNwFWJGU/LRecBShupAJ2S8TQqZfhUe9niHzu/voBYK5wuVKsvSpzbfupKQYZguVyIk1sgOkQ==",
+      "path": "konscious.security.cryptography.blake2/1.1.1",
+      "hashPath": "konscious.security.cryptography.blake2.1.1.1.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "Notus.Hash.RIPEMD160/1.8.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Pbvr4oFmj14Ym/Hhl22uOxnEERvzPVdqImPqUChFpJrPOJq3tEwumcFgv6Cnl8bEM+ogAieCuu3XZAaLJBEhIQ==",
+      "path": "notus.hash.ripemd160/1.8.6",
+      "hashPath": "notus.hash.ripemd160.1.8.6.nupkg.sha512"
+    },
+    "Notus.Tools/1.7.17": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kiEihf8qpJyPgaWZOd/GP4+7dkD6YxTzwaHNlu6d/RSHazijrfpTurtffP0IlMM0UEmeVseU5BsVAO/leVDYoQ==",
+      "path": "notus.tools/1.7.17",
+      "hashPath": "notus.tools.1.7.17.nupkg.sha512"
+    },
+    "Notus.Variable.Constant/1.8.31": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VzgQPh++yPxPUkg48qPbX8K8q4/gbYoj1FjeJKWrLk8wBngycQ6JD/do8Ru2XXxPxHGH8BxuhA/UIdGqEh2Dfg==",
+      "path": "notus.variable.constant/1.8.31",
+      "hashPath": "notus.variable.constant.1.8.31.nupkg.sha512"
+    },
+    "Portable.BouncyCastle-Signed/1.7.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aBVsV7h2b0nfKUrp63MDXH181qqC7RSf/AjuUViUigyRy7CAXC9/On7Gyg/IXM3FR/wMEbjAJXvSS3SsJiet/g==",
+      "path": "portable.bouncycastle-signed/1.7.0.2",
+      "hashPath": "portable.bouncycastle-signed.1.7.0.2.nupkg.sha512"
+    },
+    "RIPEMD160/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7E+oKx+nalm9wuE1Adze0QRRjYvF8VMBay4ZHdN0i8l2XhsczvG0I4FmUteH1tcaFQ1wsBhZCtj2pf8C1Ofy3Q==",
+      "path": "ripemd160/1.0.0",
+      "hashPath": "ripemd160.1.0.0.nupkg.sha512"
+    },
+    "SHA3/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-L2uUWM06yt6w1dS3PnePyq6E3xDZ3+Ck5HWq2zNz8+uwkQaRn75ObpxMh+cRE7qMkB7oOLljlPnOLoWPD+88PQ==",
+      "path": "sha3/1.0.0",
+      "hashPath": "sha3.1.0.0.nupkg.sha512"
+    },
+    "SHA3.Net/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ryLRgwVNnWLNW8fkl1qfr13eBkNhiRl2dPIksfEgcQghxrOt21PAEBxg/ofwW2l0FKanYpWT9WzD27O3PGHqpw==",
+      "path": "sha3.net/2.0.0",
+      "hashPath": "sha3.net.2.0.0.nupkg.sha512"
+    },
+    "SHA3Core/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2VloAHBW102AaywIsL7LSWTRTAhEILnUDLl6lDTlMlrFCu2Plg33XbAG6EBwzUh5CsFpXYaveUM2AFuvs27Jpg==",
+      "path": "sha3core/1.0.1",
+      "hashPath": "sha3core.1.0.1.nupkg.sha512"
+    }
+  }
+}

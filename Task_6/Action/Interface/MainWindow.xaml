@@ -1,0 +1,22 @@
+﻿<Window x:Class="MeasuringDeviceApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Measuring Device Test Harness" Height="350" Width="525">
+    <Grid>
+        <StackPanel Orientation="Vertical" Margin="10">
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <RadioButton x:Name="rbMetric" Content="Metric" GroupName="Units" IsChecked="True" Margin="0,0,10,0"/>
+                <RadioButton x:Name="rbImperial" Content="Imperial" GroupName="Units"/>
+            </StackPanel>
+            <Button x:Name="btnCreateInstance" Content="Create Instance" Click="createInstance_Click" Margin="0,0,0,10"/>
+            <Button x:Name="btnStartCollecting" Content="Start Collecting" Click="startCollecting_Click" Margin="0,0,0,10"/>
+            <Button x:Name="btnStopCollecting" Content="Stop Collecting" Click="stopCollecting_Click" Margin="0,0,0,10"/>
+            
+            
+            
+            <ListBox x:Name="lbRawData" Height="100" Margin="0,0,0,10"/>
+            <TextBlock x:Name="tbMetricValue" Text="Metric Value: "/>
+            <TextBlock x:Name="tbImperialValue" Text="Imperial Value: "/>
+        </StackPanel>
+    </Grid>
+</Window>

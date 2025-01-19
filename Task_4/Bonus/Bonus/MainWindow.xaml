@@ -1,0 +1,57 @@
+﻿<Window x:Class="Vector3DVisualizer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:helix="http://helix-toolkit.org/wpf"
+        Title="3D Vector Visualizer" Height="600" Width="900">
+    <Grid>
+        <!-- Разделение на две колонки -->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="250" />
+            <!-- Левая панель (ввод) -->
+            <ColumnDefinition Width="*" />
+            <!-- Правая панель (3D пространство) -->
+        </Grid.ColumnDefinitions>
+
+        <!-- Левая панель для ввода -->
+        <StackPanel Orientation="Vertical" Margin="10" Grid.Column="0">
+            <!-- Ввод первого вектора -->
+            <TextBlock Text="Vector 1 (X, Y, Z):" Margin="5"/>
+            <StackPanel Orientation="Horizontal">
+                <TextBox Name="Vector1X" Width="50" Margin="5" TextChanged="Vector1_TextChanged" />
+                <TextBox Name="Vector1Y" Width="50" Margin="5" TextChanged="Vector1_TextChanged" />
+                <TextBox Name="Vector1Z" Width="50" Margin="5" TextChanged="Vector1_TextChanged" />
+            </StackPanel>
+
+            <!-- Ввод второго вектора -->
+            <TextBlock Text="Vector 2 (X, Y, Z):" Margin="5"/>
+            <StackPanel Orientation="Horizontal">
+                <TextBox Name="Vector2X" Width="50" Margin="5" TextChanged="Vector2_TextChanged" />
+                <TextBox Name="Vector2Y" Width="50" Margin="5" TextChanged="Vector2_TextChanged" />
+                <TextBox Name="Vector2Z" Width="50" Margin="5" TextChanged="Vector2_TextChanged" />
+            </StackPanel>
+
+            <!-- Выбор операции -->
+            <TextBlock Text="Operation:" Margin="5"/>
+            <ComboBox Name="OperationSelector" Margin="5">
+                <ComboBoxItem Content="Addition" />
+                <ComboBoxItem Content="Subtraction" />
+                <ComboBoxItem Content="Dot Product" />
+                <ComboBoxItem Content="Cross Product" />
+            </ComboBox>
+
+            <!-- Кнопка выполнения операции -->
+            <Button Name="CalculateButton" Content="Perform Operation" Margin="10" Click="CalculateButton_Click"/>
+        </StackPanel>
+
+        <!-- Правая панель для 3D пространства -->
+        <helix:HelixViewport3D Name="HelixView" Margin="10" Grid.Column="1">
+            <!-- Настройка камеры -->
+            <helix:HelixViewport3D.Camera>
+                <PerspectiveCamera Position="0,-5,6" LookDirection="0,1,-1" UpDirection="0,3,3" FieldOfView="450" />
+            </helix:HelixViewport3D.Camera>
+
+            <!-- Отображение сетки 3D -->
+            <helix:GridLinesVisual3D Length="10" Width="10" MinorDistance="1" Thickness="0.01" />
+        </helix:HelixViewport3D>
+    </Grid>
+</Window>

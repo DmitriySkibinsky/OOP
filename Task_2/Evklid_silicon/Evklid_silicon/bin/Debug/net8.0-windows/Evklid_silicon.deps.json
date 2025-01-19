@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Evklid_silicon/1.0.0": {
+        "runtime": {
+          "Evklid_silicon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Evklid_silicon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

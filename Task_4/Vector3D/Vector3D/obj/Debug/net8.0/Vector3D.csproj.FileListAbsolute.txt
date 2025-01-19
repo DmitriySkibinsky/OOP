@@ -1,0 +1,14 @@
+C:\Users\dmitr\Desktop\University\OOP\Task_4\Vector3D\Vector3D\bin\Debug\net8.0\Vector3D.exe
+C:\Users\dmitr\Desktop\University\OOP\Task_4\Vector3D\Vector3D\bin\Debug\net8.0\Vector3D.deps.json
+C:\Users\dmitr\Desktop\University\OOP\Task_4\Vector3D\Vector3D\bin\Debug\net8.0\Vector3D.runtimeconfig.json
+C:\Users\dmitr\Desktop\University\OOP\Task_4\Vector3D\Vector3D\bin\Debug\net8.0\Vector3D.dll
+C:\Users\dmitr\Desktop\University\OOP\Task_4\Vector3D\Vector3D\bin\Debug\net8.0\Vector3D.pdb
+C:\Users\dmitr\Desktop\University\OOP\Task_4\Vector3D\Vector3D\obj\Debug\net8.0\Vector3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\Desktop\University\OOP\Task_4\Vector3D\Vector3D\obj\Debug\net8.0\Vector3D.AssemblyInfoInputs.cache
+C:\Users\dmitr\Desktop\University\OOP\Task_4\Vector3D\Vector3D\obj\Debug\net8.0\Vector3D.AssemblyInfo.cs
+C:\Users\dmitr\Desktop\University\OOP\Task_4\Vector3D\Vector3D\obj\Debug\net8.0\Vector3D.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\Desktop\University\OOP\Task_4\Vector3D\Vector3D\obj\Debug\net8.0\Vector3D.dll
+C:\Users\dmitr\Desktop\University\OOP\Task_4\Vector3D\Vector3D\obj\Debug\net8.0\refint\Vector3D.dll
+C:\Users\dmitr\Desktop\University\OOP\Task_4\Vector3D\Vector3D\obj\Debug\net8.0\Vector3D.pdb
+C:\Users\dmitr\Desktop\University\OOP\Task_4\Vector3D\Vector3D\obj\Debug\net8.0\Vector3D.genruntimeconfig.cache
+C:\Users\dmitr\Desktop\University\OOP\Task_4\Vector3D\Vector3D\obj\Debug\net8.0\ref\Vector3D.dll

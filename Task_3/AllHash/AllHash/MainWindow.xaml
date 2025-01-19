@@ -1,0 +1,30 @@
+﻿<Window x:Class="HashCalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Хэш-калькулятор" Height="500" Width="600">
+    <Grid>
+        <!-- Input TextBox -->
+        <TextBox x:Name="InputTextBox" Margin="10,10,10,0" VerticalAlignment="Top" Height="30" />
+
+        <!-- First Row of Buttons (SHA Algorithms) -->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10,50,10,0">
+            <Button x:Name="SHA1Button" Content="SHA1" Click="SHA1Button_Click" Width="80" Margin="5" />
+            <Button x:Name="SHA224Button" Content="SHA224" Click="SHA224Button_Click" Width="80" Margin="5" />
+            <Button x:Name="SHA256Button" Content="SHA256" Click="SHA256Button_Click" Width="80" Margin="5" />
+            <Button x:Name="SHA384Button" Content="SHA384" Click="SHA384Button_Click" Width="80" Margin="5" />
+            <Button x:Name="SHA512Button" Content="SHA512" Click="SHA512Button_Click" Width="80" Margin="5" />
+        </StackPanel>
+
+        <!-- Second Row of Buttons (Other Algorithms and Actions) -->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10,100,10,0">
+            <Button x:Name="MD5Button" Content="MD5" Click="MD5Button_Click" Width="80" Margin="5" />
+            <Button x:Name="RIPEMD160Button" Content="RIPEMD160" Click="RIPEMD160Button_Click" Width="80" Margin="5" />
+            <Button x:Name="HMACSHA1Button" Content="HMACSHA1" Click="HMACSHA1Button_Click" Width="80" Margin="5" />
+            <Button x:Name="HMACSHA256Button" Content="HMACSHA256" Click="HMACSHA256Button_Click" Width="80" Margin="5" />
+            <Button x:Name="CopyToClipboardButton" Content="Копировать" Click="CopyToClipboardButton_Click" Width="80" Margin="5" />
+        </StackPanel>
+
+        <!-- Output TextBox -->
+        <TextBox x:Name="OutputTextBox" Margin="10,180,10,10" VerticalAlignment="Stretch" IsReadOnly="True" TextWrapping="Wrap" />
+    </Grid>
+</Window>

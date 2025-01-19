@@ -1,0 +1,39 @@
+﻿<Window x:Class="FileEncryptionApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="File Encryption App" Height="400" Width="400">
+    <Grid>
+        <!-- Кнопка для выбора файла -->
+        <Button x:Name="btnSelectFile" Content="Select File" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="100" Click="btnSelectFile_Click"/>
+
+        <!-- Выбор метода шифрования -->
+        <ComboBox x:Name="cbEncryptionMethod" HorizontalAlignment="Left" Margin="120,10,0,0" VerticalAlignment="Top" Width="150">
+            <ComboBoxItem Content="SHA256"/>
+            <ComboBoxItem Content="MD5"/>
+        </ComboBox>
+
+        <!-- Кнопка для шифрования -->
+        <Button x:Name="btnEncrypt" Content="Encrypt" HorizontalAlignment="Left" Margin="280,10,0,0" VerticalAlignment="Top" Width="100" Click="btnEncrypt_Click"/>
+
+        <!-- Поле для отображения пути к файлу -->
+        <TextBox x:Name="txtFilePath" HorizontalAlignment="Left" Height="23" Margin="10,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="380" IsReadOnly="True"/>
+
+        <!-- Поле для отображения результата -->
+        <TextBox x:Name="txtResult" HorizontalAlignment="Left" Margin="10,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="110" Width="380" IsReadOnly="True"/>
+
+        <!-- Кнопка для сохранения в бинарный файл -->
+        <Button x:Name="btnSaveBinary" Content="Save as Binary" HorizontalAlignment="Left" Margin="10,190,0,0" VerticalAlignment="Top" Width="120" Click="btnSaveBinary_Click"/>
+
+        <!-- Кнопка для загрузки из бинарного файла -->
+        <Button x:Name="btnLoadBinary" Content="Load from Binary" HorizontalAlignment="Center" Margin="0,190,0,0" VerticalAlignment="Top" Width="120" Click="btnLoadBinary_Click"/>
+
+        <!-- Кнопка для сохранения в текстовый файл -->
+        <Button x:Name="btnSaveTxt" Content="Save as TXT" HorizontalAlignment="Left" Margin="270,190,0,0" VerticalAlignment="Top" Width="120" Click="btnSaveTxt_Click"/>
+
+        <!-- Кнопка для сохранения информации о файле -->
+        <Button x:Name="btnSaveFileInfo" Content="Save File Info" HorizontalAlignment="Left" Margin="70,230,0,0" VerticalAlignment="Top" Width="120" Click="btnSaveFileInfo_Click"/>
+
+        <!-- Кнопка для загрузки информации о файле -->
+        <Button x:Name="btnLoadFileInfo" Content="Load File Info" HorizontalAlignment="Left" Margin="210,230,0,0" VerticalAlignment="Top" Width="120" Click="btnLoadFileInfo_Click"/>
+    </Grid>
+</Window>

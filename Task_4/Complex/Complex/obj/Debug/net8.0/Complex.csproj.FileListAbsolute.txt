@@ -1,0 +1,14 @@
+C:\Users\dmitr\Desktop\University\OOP\Task_4\Complex\Complex\bin\Debug\net8.0\Complex.exe
+C:\Users\dmitr\Desktop\University\OOP\Task_4\Complex\Complex\bin\Debug\net8.0\Complex.deps.json
+C:\Users\dmitr\Desktop\University\OOP\Task_4\Complex\Complex\bin\Debug\net8.0\Complex.runtimeconfig.json
+C:\Users\dmitr\Desktop\University\OOP\Task_4\Complex\Complex\bin\Debug\net8.0\Complex.dll
+C:\Users\dmitr\Desktop\University\OOP\Task_4\Complex\Complex\bin\Debug\net8.0\Complex.pdb
+C:\Users\dmitr\Desktop\University\OOP\Task_4\Complex\Complex\obj\Debug\net8.0\Complex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\Desktop\University\OOP\Task_4\Complex\Complex\obj\Debug\net8.0\Complex.AssemblyInfoInputs.cache
+C:\Users\dmitr\Desktop\University\OOP\Task_4\Complex\Complex\obj\Debug\net8.0\Complex.AssemblyInfo.cs
+C:\Users\dmitr\Desktop\University\OOP\Task_4\Complex\Complex\obj\Debug\net8.0\Complex.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\Desktop\University\OOP\Task_4\Complex\Complex\obj\Debug\net8.0\Complex.dll
+C:\Users\dmitr\Desktop\University\OOP\Task_4\Complex\Complex\obj\Debug\net8.0\refint\Complex.dll
+C:\Users\dmitr\Desktop\University\OOP\Task_4\Complex\Complex\obj\Debug\net8.0\Complex.pdb
+C:\Users\dmitr\Desktop\University\OOP\Task_4\Complex\Complex\obj\Debug\net8.0\Complex.genruntimeconfig.cache
+C:\Users\dmitr\Desktop\University\OOP\Task_4\Complex\Complex\obj\Debug\net8.0\ref\Complex.dll
